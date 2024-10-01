@@ -1,0 +1,10 @@
+---
+title: "proyecto_quarto_vt_DUNIA"
+author: "Dunia_Picado"
+date: "30 de septiembre de 2024"  # Fecha actual
+output: html_document
+---
+
+## Quarto
+
+Este es un documento de ejemplo que usa Quarto.
