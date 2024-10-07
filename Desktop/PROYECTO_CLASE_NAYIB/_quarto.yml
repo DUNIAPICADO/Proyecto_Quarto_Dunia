@@ -10,10 +10,11 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+
 format:
   html:
     theme: cosmo
     css: styles.css
 
-
+output-dir: _site  # Asegúrate de que esta línea esté aquí
 

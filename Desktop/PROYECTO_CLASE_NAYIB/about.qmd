@@ -13,7 +13,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+## Sobre Este Blog
+
+Este blog está diseñado para compartir mis proyectos y aprendizajes.
