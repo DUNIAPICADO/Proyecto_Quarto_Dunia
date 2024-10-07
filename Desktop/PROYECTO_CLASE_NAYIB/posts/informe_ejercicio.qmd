@@ -1,0 +1,33 @@
+---
+title: "Informe sobre el Ejercicio"
+author: "DUNIAP"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Confirmación de Pasos Completados
+
+He seguido todos los pasos de la guía para desplegar el sitio web en GitHub Pages. Los pasos incluyen:
+- Creación del proyecto Quarto.
+- Desarrollo de los archivos necesarios.
+- Configuración del repositorio en GitHub.
+- Habilitación de GitHub Pages.
+
+Cada uno de estos pasos fue completado con éxito, y el sitio ahora está accesible en la URL proporcionada.
+
+## Descripción de los Desafíos Encontrados
+
+Durante el proceso, enfrenté varios desafíos, como:
+
+- **Configuración de GitHub Pages**: Al principio, no estaba seguro de cómo habilitar GitHub Pages en la configuración del repositorio. Después de consultar la documentación de GitHub, pude encontrar la opción adecuada en la sección "Pages" de la configuración del repositorio.
+
+- **Problemas de Visualización**: Tras el primer despliegue, noté que algunos enlaces no funcionaban correctamente. Solucioné esto revisando los archivos generados y asegurándome de que las rutas de los enlaces fueran correctas.
+
+Estos obstáculos me ayudaron a aprender más sobre la integración de Quarto y GitHub.
+
+## Reflexión sobre lo Aprendido
+
+Este proceso de despliegue me enseñó:
+- La importancia de seguir instrucciones paso a paso y cómo esto puede facilitar la resolución de problemas.
+- La utilidad de las herramientas de control de versiones como Git, que permiten mantener un registro de los cambios y revertir errores.
+- Cómo utilizar Quarto para crear contenido dinámico y presentarlo en una plataforma pública.
